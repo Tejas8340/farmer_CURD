@@ -1,0 +1,41 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "OPQ ",
+      "payment": "online",
+      "location": "Pune",
+      "phone": "91-854-987-0125",
+      "fats": "3.5",
+      "snf": "8.5"
+    },
+    {
+      "id": 2,
+      "name": "LMN",
+      "payment": "online",
+      "location": "Mumbai",
+      "phone": "91-978-821-8550",
+      "fats": "4.5",
+      "snf": "9.5"
+    },
+    {
+      "id": 3,
+      "name": "XYZ",
+      "payment": "online",
+      "location": "Satara",
+      "phone": "91-976-854-3540",
+      "fats": "3.8",
+      "snf": "8.3"
+    },
+    {
+      "id": 4,
+      "name": "def",
+      "payment": "online",
+      "location": "Nashik",
+      "phone": "91-921-854-9650",
+      "website": "test.com",
+      "fats": "3.2",
+      "snf": "8.1"
+    }
+  ]
+}
